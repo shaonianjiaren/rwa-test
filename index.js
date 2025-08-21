@@ -1,5 +1,5 @@
 export default {
   fetch: async () => {
-    return new Response('Hello Worldqwe!')
+    return new Response('Hello Worldq!')
   }
 }
